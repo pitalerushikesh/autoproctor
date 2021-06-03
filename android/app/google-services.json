@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1040756086283",
+    "project_id": "autoproctor-rp07",
+    "storage_bucket": "autoproctor-rp07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040756086283:android:bbeb31e4c4e5bd442f590e",
+        "android_client_info": {
+          "package_name": "com.example.autoproctor_exam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040756086283-7i5cgbndnkkmc0fqg60ifsh87nhu0dcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUi_0kpVGWkKI8TKAVZaL7FWR67veu_ms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040756086283-7i5cgbndnkkmc0fqg60ifsh87nhu0dcd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
