@@ -16,17 +16,28 @@
 
 • Admin/Teacher Panel
   o Create Exams Based on Subjects, Classes.
+  
   o Can create MCQ Based Exams by using .csv files (Excel Sheets). 
+  
   o Can view the created Exam.
+  
   o Can check for malpractices as well as check the results. 
+  
   o Create an account for Student.
+  
 • User Panel
   o The Student can access several exam papers and can give the exam at the allotted time.
+  
   o The Student can view his/her profile in the user panel.
+  
   o During the examination the student will not be allowed to take screenshots of the paper.
+  
   o During the examination the student will be monitored via live facial recognition which will track the students eye moment to ensure that student is not cheating.
+  
   o During the examination the student will not be able to switch between apps because upon doing so the examination will be terminated and current progress of the student will be automatically submitted.
+  
   o After the allotted time limit expires the student’s exam paper will automatically be submitted and the student will not be allowed to access the paper again
+  
 
 ## FRONTEND: Flutter
 ## BACKEND: Database - Firebase
