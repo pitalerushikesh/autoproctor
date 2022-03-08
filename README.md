@@ -14,7 +14,8 @@
 
 ## Advantages
 
-• Admin/Teacher Panel
+### Admin/Teacher Panel
+
   o Create Exams Based on Subjects, Classes.
   
   o Can create MCQ Based Exams by using .csv files (Excel Sheets). 
@@ -25,7 +26,8 @@
   
   o Create an account for Student.
   
-• User Panel
+### User Panel
+
   o The Student can access several exam papers and can give the exam at the allotted time.
   
   o The Student can view his/her profile in the user panel.
